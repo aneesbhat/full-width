@@ -1,0 +1,45 @@
+* {
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+	font-family:sans-serif;
+	text-decoration:none;
+}
+
+
+.Text {
+	width:100%;
+	background-color:whitesmoke;
+	font-size:30px;
+	text-align:center;
+	padding:20px;
+	font-weight:bold;
+	font-family:cursive;
+
+}
+
+
+.section-main {
+	width:100%;
+	padding:40px 0px;
+	background:whitesmoke;
+
+
+}
+
+.inner-mid {
+	width:900px;
+	margin:auto;
+	display:flex;
+	justify-content:space-between;
+    flex-wrap:wrap;
+
+
+}
+
+.inner-mid img {
+ width:250px;
+ padding:20px;
+}
+
+
